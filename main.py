@@ -95,6 +95,7 @@ while True:
             print(story_3())
             break
     else:
+
         print("please choose numbers 1,2 or 3:")
 
 
